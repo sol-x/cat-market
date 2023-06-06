@@ -1,12 +1,15 @@
 ## Instructions
 
-This test should take around 60 minutes, you may submit whatever you have achieved after 60 minutes.
+This test should take around 60 minutes, you may submit whatever you have achieved after 60 minutes or continue up to 90 minutes if you would prefer.
 
-Please *do not fork this repo on github or open a pull request*. Submit your solution via email in an archive, which can be created with the following `git` command:
+Please *do not fork this repo on github or open a pull request*.
+If working on this remotely then please submit your solution via email in an archive, which can be created with the following `git` command:
 
 ```
 git archive HEAD . -o solution.tar
 ```
+
+Please commit your work before running this command.
 
 To run this project type:
 
@@ -108,3 +111,4 @@ The following commands show examples of how to use the API with curl:
 2. `useEffect` may be used to retrieve data unless you want to use a state management library.
 3. Don't change `client/tsconfig.json` or any of the code in the `server` directory.
 4. Use hooks and functional components rather than class components.
+5. Don't worry about the presentation unless you have time, but please use semantic HTML.
